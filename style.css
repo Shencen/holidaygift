@@ -1,0 +1,26 @@
+body {
+    background: #fcf0fd;
+    background-image: url('sprites/pattern.png');
+}
+
+.container {
+    background-color: #90f4e4;
+    padding: 4px;
+    margin: 20px;
+    padding-bottom: 0px;
+    border: 2px solid #4d23cf;
+}
+
+.header {
+    background-color: #f0d1f1;
+    padding: 10px;
+    border: 2px solid #4d23cf;
+}
+
+.content {
+    background-color: #fff8ff;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 10px;
+    border: 2px solid #4d23cf;
+}
