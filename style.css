@@ -1,18 +1,27 @@
 body {
     background: #fcf0fd;
     background-image: url('sprites/pattern.png');
+    font-family: "PixelMPlus-Regular";
+}
+
+@font-face {
+    font-family: "PixelMPlus-Regular";
+    src: url(fonts/PixelMplus12-Regular.ttf) format("truetype");
 }
 
 .container {
     background-color: #90f4e4;
     padding: 4px;
     margin: 20px;
+    padding-top: 0px;
     padding-bottom: 0px;
     border: 2px solid #4d23cf;
 }
 
 .header {
     background-color: #f0d1f1;
+    margin-top: 4px;
+    margin-bottom: 4px;
     padding: 10px;
     border: 2px solid #4d23cf;
 }
