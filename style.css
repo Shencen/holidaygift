@@ -69,3 +69,19 @@ body {
 		border: 2px inset #4d23cf;
 	}
 }
+
+.song {
+	width: 14em;
+	height: 14em;
+}
+
+.cancion {
+	display: flex;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	justify-content: flex-start;
+}
+
+.cancion p {
+	margin-left: 1.3em;
+}
